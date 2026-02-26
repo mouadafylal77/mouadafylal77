@@ -23,4 +23,7 @@ I am a **Data Analytics student** at the Faculty of Sciences and Techniques of T
 | **Tools & Frameworks** | ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
 
 ---
-*Let's build something impactful together!*
+---
+<p align="center">
+  <b>Focused on continuous learning and delivering rigorous, high-quality solutions through collaboration.</b>
+</p>
