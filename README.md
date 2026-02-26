@@ -30,5 +30,5 @@ I am a **Data Analytics student** at the Faculty of Sciences and Techniques of T
 ---
 ---
 <p align="center">
-  <b>Focused on continuous learning and delivering rigorous, high-quality solutions through collaboration.</b>
+  <a href="mailto:mouadafylal77@gmail.com"> <b>Contacte-moi</b></a>
 </p>
