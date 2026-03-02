@@ -6,7 +6,7 @@
 </p>
 
 ### 📊 Data Analytics Student @ FST Tangier
-*Looking  for my End-of-Studies Project (PFE)*
+*Looking  for an internship for my End-of-Studies Project (PFE)*
 
 ---
 
