@@ -1,25 +1,25 @@
-# Hi there, I'm Mouad! 👋 
+# Hi there, I'm Mouad! 
 
 <p align="center">
 <a href="https://www.linkedin.com/in/moad-afylal"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:afylalmouad@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-### 📊 Data Analytics Student @ FST Tangier
+###  Data Analytics Student @ FST Tangier
 *Looking  for an internship for my End-of-Studies Project (PFE)*
 
 ---
 
-### 👤 About Me
+###  About Me
 I am a **Data Analytics student** at the Faculty of Sciences and Techniques of Tangier. I focus on building intelligent systems and solving complex problems with data.
 
-* 🚀 **Flagship Project:** **UniTime** – An AI-powered scheduling system developed with **Object-Oriented Programming (OOP)** in Python, utilizing FastAPI and Llama 3 (RAG).
-* 🤖 **Expertise:** Machine Learning (Decision Trees & Random Forests) and Data Structures in C.
-* 🛠️ **Full-Stack:** Experience with Laravel, SQL, and Python.
+*  **Flagship Project:** **UniTime** – An AI-powered scheduling system developed with **Object-Oriented Programming (OOP)** in Python, utilizing FastAPI and Llama 3 (RAG).
+*  **Expertise:** Machine Learning (Decision Trees & Random Forests) and Data Structures in C.
+*  **Full-Stack:** Experience with Laravel, SQL, and Python.
 
 ---
 
-### 🛠 Technical Arsenal
+###  Technical Arsenal
 
 | Category | Technologies |
 | :--- | :--- |
