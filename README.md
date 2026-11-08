@@ -5,13 +5,13 @@
 <a href="mailto:afylalmouad@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-###  Data Analytics Student @ FST Tangier
-*Looking  for an internship for my End-of-Studies Project (PFE)*
+###  Master data enginnering and IA  Student @ FST Tangier
+*Looking  for an internship for my PFA(Projet de Fin Année ) for summer 2027 *
 
 ---
 
 ###  About Me
-I am a **Data Analytics student** at the Faculty of Sciences and Techniques of Tangier. I focus on building intelligent systems and solving complex problems with data.
+*I am a Data Engineering and AI student at the Faculty of Sciences and Techniques of Tangier. I focus on creating automated data pipelines, building Machine Learning models to solve real-world problems, and leveraging the power of AI to optimize code efficiency*
 
 *  **Flagship Project:** **UniTime** – An AI-powered scheduling system developed with **Object-Oriented Programming (OOP)** in Python, utilizing FastAPI and Llama 3 (RAG).
 *  **Expertise:** Machine Learning (Decision Trees & Random Forests) and Data Structures in C.
